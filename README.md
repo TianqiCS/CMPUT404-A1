@@ -24,3 +24,7 @@ examples thus some of the code is Copyright © 2001-2013 Python
 Software Foundation; All Rights Reserved under the PSF license (GPL
 compatible) http://docs.python.org/2/library/socketserver.html
 
+Reference
+========================
+- How to parse raw HTTP request in Python 3? [https://stackoverflow.com/a/39091087] by Corey Goldberg
+- A simple and quick HTTP web server in Python [https://gist.github.com/joncardasis/cc67cfb160fa61a0457d6951eff2aeae] by Jonathan Cardasis
